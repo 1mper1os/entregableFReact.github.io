@@ -1,0 +1,76 @@
+const TableData = [
+    {
+        InvoiceID: "#AHGA68",
+        Date: "23/09/2022",
+        Customer: "Sophia Lee",
+        PayableAmount: "150",
+        PaidAmount: "50",
+        Due: "100",
+    },
+    {
+        InvoiceID: "#AHGA69",
+        Date: "24/09/2022",
+        Customer: "Liam Smith",
+        PayableAmount: "200",
+        PaidAmount: "150",
+        Due: "50",
+    },
+    {
+        InvoiceID: "#AHGA70",
+        Date: "25/09/2022",
+        Customer: "Emma Davis",
+        PayableAmount: "300",
+        PaidAmount: "200",
+        Due: "100",
+    },
+    {
+        InvoiceID: "#AHGA71",
+        Date: "26/09/2022",
+        Customer: "Oliver Johnson",
+        PayableAmount: "250",
+        PaidAmount: "250",
+        Due: "0",
+    },
+    {
+        InvoiceID: "#AHGA72",
+        Date: "27/09/2022",
+        Customer: "Ava Brown",
+        PayableAmount: "400",
+        PaidAmount: "300",
+        Due: "100",
+    },
+    {
+        InvoiceID: "#AHGA73",
+        Date: "28/09/2022",
+        Customer: "Mason Wilson",
+        PayableAmount: "500",
+        PaidAmount: "500",
+        Due: "0",
+    },
+    {
+        InvoiceID: "#AHGA74",
+        Date: "29/09/2022",
+        Customer: "Isabella Moore",
+        PayableAmount: "350",
+        PaidAmount: "200",
+        Due: "150",
+    },
+    {
+        InvoiceID: "#AHGA75",
+        Date: "30/09/2022",
+        Customer: "James Taylor",
+        PayableAmount: "600",
+        PaidAmount: "500",
+        Due: "100",
+    },
+    {
+        InvoiceID: "#AHGA76",
+        Date: "01/10/2022",
+        Customer: "Charlotte Martinez",
+        PayableAmount: "450",
+        PaidAmount: "400",
+        Due: "50",
+    }
+];
+
+export default TableData;
